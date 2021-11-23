@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/himanshu-jaiswal-portfolio/static/js/main.1965e365.chunk.js",
-    "main.js.map": "/himanshu-jaiswal-portfolio/static/js/main.1965e365.chunk.js.map",
-    "runtime-main.js": "/himanshu-jaiswal-portfolio/static/js/runtime-main.93088059.js",
-    "runtime-main.js.map": "/himanshu-jaiswal-portfolio/static/js/runtime-main.93088059.js.map",
-    "static/js/2.5240eb1a.chunk.js": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js",
-    "static/js/2.5240eb1a.chunk.js.map": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js.map",
-    "static/js/3.8fad97bc.chunk.js": "/himanshu-jaiswal-portfolio/static/js/3.8fad97bc.chunk.js",
-    "static/js/3.8fad97bc.chunk.js.map": "/himanshu-jaiswal-portfolio/static/js/3.8fad97bc.chunk.js.map",
-    "index.html": "/himanshu-jaiswal-portfolio/index.html",
-    "static/js/2.5240eb1a.chunk.js.LICENSE.txt": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.1965e365.chunk.js",
+    "main.js.map": "/static/js/main.1965e365.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe3cc388.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe3cc388.js.map",
+    "static/js/2.5240eb1a.chunk.js": "/static/js/2.5240eb1a.chunk.js",
+    "static/js/2.5240eb1a.chunk.js.map": "/static/js/2.5240eb1a.chunk.js.map",
+    "static/js/3.8fad97bc.chunk.js": "/static/js/3.8fad97bc.chunk.js",
+    "static/js/3.8fad97bc.chunk.js.map": "/static/js/3.8fad97bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.5240eb1a.chunk.js.LICENSE.txt": "/static/js/2.5240eb1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93088059.js",
+    "static/js/runtime-main.fe3cc388.js",
     "static/js/2.5240eb1a.chunk.js",
     "static/js/main.1965e365.chunk.js"
   ]
