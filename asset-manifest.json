@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/himanshu-jaiswal-portfolio/static/js/main.f8ffdb4c.chunk.js",
+    "main.js.map": "/himanshu-jaiswal-portfolio/static/js/main.f8ffdb4c.chunk.js.map",
+    "runtime-main.js": "/himanshu-jaiswal-portfolio/static/js/runtime-main.93088059.js",
+    "runtime-main.js.map": "/himanshu-jaiswal-portfolio/static/js/runtime-main.93088059.js.map",
+    "static/js/2.5240eb1a.chunk.js": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js",
+    "static/js/2.5240eb1a.chunk.js.map": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js.map",
+    "static/js/3.8fad97bc.chunk.js": "/himanshu-jaiswal-portfolio/static/js/3.8fad97bc.chunk.js",
+    "static/js/3.8fad97bc.chunk.js.map": "/himanshu-jaiswal-portfolio/static/js/3.8fad97bc.chunk.js.map",
+    "index.html": "/himanshu-jaiswal-portfolio/index.html",
+    "static/js/2.5240eb1a.chunk.js.LICENSE.txt": "/himanshu-jaiswal-portfolio/static/js/2.5240eb1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93088059.js",
+    "static/js/2.5240eb1a.chunk.js",
+    "static/js/main.f8ffdb4c.chunk.js"
+  ]
+}
