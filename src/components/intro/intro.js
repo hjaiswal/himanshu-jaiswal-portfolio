@@ -18,11 +18,11 @@ export default class intro extends Component {
             </div>   		 		
           </div>
           <ul className="intro-social">        
-            <li><a href="https://www.facebook.com/himanshu.jaiswal.587" target="_blank"><i className="fa fa-facebook" /></a></li>
-            <li><a href="https://www.linkedin.com/in/hjaiswal1/" target="_blank"><i className="fa fa-linkedin" /></a></li>
-            <li><a href="https://github.com/hjaiswal" target="_blank"><i className="fa fa-github" /></a></li>
-            <li><a href="https://www.instagram.com/jaiswalhimanshu.36/?hl=en" target="_blank"><i className="fa fa-instagram" /></a></li>
-            <li><a href="https://medium.com/@himanshujaiswal_58882" target="_blank"><i className="fa fa-medium"></i></a></li>
+            <li><a href="https://www.facebook.com/himanshu.jaiswal.587" target="_blank" rel="noreferrer"><i className="fa fa-facebook" /></a></li>
+            <li><a href="https://www.linkedin.com/in/hjaiswal1/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin" /></a></li>
+            <li><a href="https://github.com/hjaiswal" target="_blank" rel="noreferrer"><i className="fa fa-github" /></a></li>
+            <li><a href="https://www.instagram.com/jaiswalhimanshu.36/?hl=en" target="_blank" rel="noreferrer"><i className="fa fa-instagram" /></a></li>
+            <li><a href="https://medium.com/@himanshujaiswal_58882" target="_blank" rel="noreferrer"><i className="fa fa-medium"></i></a></li>
             
           </ul>      	
         </section>

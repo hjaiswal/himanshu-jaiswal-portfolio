@@ -2306,7 +2306,7 @@ header .logo a {
   font-size: 4.8rem;
   color: #000000;
 }
-#stats .stat-count {
+#stats .stat-count-new {
   color: #ffffff;
   font-size: 3.6rem;
   margin-top: 1.2rem;
@@ -2316,6 +2316,10 @@ header .logo a {
 }
 #stats .stat-title {
   color: rgba(255, 255, 255, 0.5);
+}
+
+.stat-center {
+  margin: auto;
 }
 
 /**

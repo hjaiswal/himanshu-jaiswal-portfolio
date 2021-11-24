@@ -11,7 +11,7 @@ export default class About extends Component {
               <div className="intro-info">
                 <img src="images/profile-pic-him.jpg" alt="Profile Picture" />
                 
-                <p className="lead">A passionate engineer with 5+ years of experience in full-stack development. A collaborative developer with experience in building frontend and backend applications, working with distributed systems and cloud technologies, setting up CI/CD and metrics pipelines. A self-motivated individual with the mindset of continuous learning and growth. Editor of Medium Publication - <a href="https://medium.com/@himanshujaiswal_58882" target="_blank">Javascript in Plain English</a>
+                <p className="lead">A passionate engineer with 5+ years of experience in full-stack development. A collaborative developer with experience in building frontend and backend applications, working with distributed systems and cloud technologies, setting up CI/CD and metrics pipelines. A self-motivated individual with the mindset of continuous learning and growth. Editor of Medium Publication - <a href="https://medium.com/@himanshujaiswal_58882" target="_blank" rel="noreferrer">Javascript in Plain English</a>
                 </p>
               </div>   			
             </div>   		
