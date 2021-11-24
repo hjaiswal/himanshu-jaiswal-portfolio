@@ -33,7 +33,7 @@ export default class About extends Component {
                 </li>
                 <li>
                   <strong>Website:</strong>
-                  <span>www.himanshujaiswal.org</span>
+                  <span>www.himanshujaiswal.co.in</span>
                 </li>
                 <li>
                   <strong>Email:</strong>
@@ -60,7 +60,7 @@ export default class About extends Component {
                   <strong>Javascript</strong>
                 </li>
                 <li>
-                  <div className="progress percent50"><span>70%</span></div>
+                  <div className="progress percent70"><span>70%</span></div>
                   <strong>ReactJS</strong>
                 </li>
               </ul>
