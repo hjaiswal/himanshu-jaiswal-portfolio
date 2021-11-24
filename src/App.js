@@ -5,6 +5,7 @@ import About from './components/about/about';
 import Credentials from './components/credentials/credentials';
 import Stats from './components/stats/Stats'
 import Contact from './components/contact/contact'
+import ErrorBoundary from './error/ErrorBoundary';
 
 
 class App extends Component {
@@ -15,7 +16,9 @@ class App extends Component {
         <Intro />
         <About />
         <Credentials />
-        <Stats />
+        <ErrorBoundary>
+          <Stats />
+        </ErrorBoundary>
         <Contact />
       </div>
     );
