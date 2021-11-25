@@ -20,7 +20,8 @@ export default class contact extends Component {
           <div className="row contact-info">
             <div className="col-six tab-full">
               <div className="icon">
-                <i className="icon-pin" />
+                <a href="https://goo.gl/maps/ov5ZzXfL7aBU4k3a9" target="_blank" rel="noreferrer">
+                <i className="icon-pin" /></a>
               </div>
               <h5>Where to find me</h5>
               <p>
@@ -33,7 +34,7 @@ export default class contact extends Component {
             </div>
             <div className="col-six tab-full collapse">
               <div className="icon">
-                <i className="icon-mail" />
+              <a href="mailto:jaiswalhimanshu.36@gmail.com"><i className="icon-mail" /></a>
               </div>
               <h5>Email Me At</h5>
               <p>

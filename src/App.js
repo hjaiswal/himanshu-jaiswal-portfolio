@@ -6,6 +6,7 @@ import Credentials from './components/credentials/credentials';
 import Stats from './components/stats/Stats'
 import Contact from './components/contact/contact'
 import ErrorBoundary from './error/ErrorBoundary';
+import Portfolio from './components/portfolio/portfolio'
 
 
 class App extends Component {
@@ -16,6 +17,7 @@ class App extends Component {
         <Intro />
         <About />
         <Credentials />
+        {/* <Portfolio /> */}
         <ErrorBoundary>
           <Stats />
         </ErrorBoundary>

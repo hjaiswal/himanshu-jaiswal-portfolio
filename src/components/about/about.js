@@ -9,7 +9,7 @@ export default class About extends Component {
               <h5>About</h5>
               <h1>Let me introduce myself.</h1>
               <div className="intro-info">
-                <img src="images/profile-pic-him.jpg" alt="Profile Picture" />
+                <img src="images/profile-pic-him.png" alt="Profile Picture" />
                 
                 <p className="lead">A passionate engineer with 5+ years of experience in full-stack development. A collaborative developer with experience in building frontend and backend applications, working with distributed systems and cloud technologies, setting up CI/CD and metrics pipelines. A self-motivated individual with the mindset of continuous learning and growth. Editor of Medium Publication - <a href="https://medium.com/@himanshujaiswal_58882" target="_blank" rel="noreferrer">Javascript in Plain English</a>
                 </p>
@@ -25,7 +25,7 @@ export default class About extends Component {
                 </li>
                 <li>
                   <strong>Birth Date:</strong>
-                  <span>October 13, 1992</span>
+                  <span>October 13</span>
                 </li>
                 <li>
                   <strong>Job:</strong>
